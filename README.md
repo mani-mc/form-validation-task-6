@@ -1,5 +1,5 @@
 🧾 Simple Form Validation (HTML, CSS, JavaScript)
-📌 Description
+
 
 A simple and responsive form validation project built using HTML, CSS, and JavaScript.
 This form includes input fields for Username, Email, and Password, and performs real-time validation before submission.
