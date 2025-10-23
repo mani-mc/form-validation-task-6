@@ -33,11 +33,9 @@ Responsive and modern design
 
 Prevents form submission until all inputs are valid
 
-🚀 Live Preview
-
-🔗 Live Preview :
+🔗 Live Preview :  https://mani-mc.github.io/form-validation-task-6/
 
 📸 Screenshot
+<img width="1919" height="910" alt="Screenshot 2025-10-23 113224" src="https://github.com/user-attachments/assets/88d17f3d-dc32-4850-b498-e2ca14efc00d" />
 
-(You can add an image preview here)
-![Form Validation Screenshot](./screenshot.png)https://mani-mc.github.io/form-validation-task-6/
+
